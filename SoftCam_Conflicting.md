@@ -1,0 +1,41 @@
+اي قناة قيمتها 
+
+![](https://img.shields.io/badge/SID-1-red) ![](https://img.shields.io/badge/VPID-512-green) 
+
+F 00010200 00 253499F2443436AE ; AVA (7.0E)
+
+F 00010200 00 A1 AD2270BBBB9107 ; Simaye Azadi Iran National TV (7.0E)
+
+F 00010200 00 294EBB32A1F3962A ;FEED BEIN (3.0E)
+
+F 00010200 00 4A1F43AC54E087BB ;FEED BEIN (3.0E)
+
+F 00010200 00 91C67ED50648FE4C ;FEED (21.6E)
+
+![](https://img.shields.io/badge/SID-1-red) ![](https://img.shields.io/badge/VPID-308-green) 
+
+F 00010134 00 198819BA882020C8 ;Al Ahad HD (3.0°E)
+
+F 00010134 00 271990D015032038 ;Libya Al Ahrar HD (7.0E)
+
+![](https://img.shields.io/badge/SID-1-red) ![](https://img.shields.io/badge/VPID-101-green)
+
+F 00010065 00 12AB34F1CD56EF12 ;MBC Maser (21.6°E)
+
+F 00010065 00 294EBB32A1F3962A ;FEED BEIN (3.0E)
+
+F 00010065 00 4A1F43AC54E087BB ;FEED BEIN (3.0E)
+
+F 00010065 00 91C67ED50648FE4C ;FEED SSC (21.6E)
+
+![](https://img.shields.io/badge/SID-1-red) ![](https://img.shields.io/badge/VPID-33-green)
+
+F 00010021 00 DEAB19A20816BCDA ;Riyadh MCR (21.6°E)
+
+F 00010021 00 83E58EF671EB9FFB ;MBC ARA Main (21.6E)
+
+F 00010021 00 294EBB32A1F3962A ;FEED BEIN (3.0E)
+
+F 00010021 00 4A1F43AC54E087BB ;FEED BEIN (3.0E)
+
+F 00010021 00 91C67ED50648FE4C ;FEED SSC (21.6E)
